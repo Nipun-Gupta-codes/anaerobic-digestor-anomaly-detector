@@ -1,0 +1,37 @@
+system,features,detector,part,n_rows,n_flagged,n_with_chem,n_evidence_days,auc,precision,recall
+pilot_D1|A_logged,"ph,temp_c,biogas_m3d,ccr",IsolationForest,train,164,9,164,0,,,
+pilot_D1|A_logged,"ph,temp_c,biogas_m3d,ccr",IsolationForest,holdout,126,96,126,20,0.72,0.198,0.95
+pilot_D1|A_logged,"ph,temp_c,biogas_m3d,ccr",LocalOutlierFactor,train,164,8,164,0,,,
+pilot_D1|A_logged,"ph,temp_c,biogas_m3d,ccr",LocalOutlierFactor,holdout,126,64,126,20,0.845,0.312,1.0
+pilot_D1|A_logged,"ph,temp_c,biogas_m3d,ccr",OneClassSVM,train,164,10,164,0,,,
+pilot_D1|A_logged,"ph,temp_c,biogas_m3d,ccr",OneClassSVM,holdout,126,105,126,20,0.911,0.19,1.0
+pilot_D1|B_chemistry,6 feats,IsolationForest,train,64,4,64,0,,,
+pilot_D1|B_chemistry,6 feats,IsolationForest,holdout,94,80,94,20,0.733,0.25,1.0
+pilot_D1|B_chemistry,6 feats,LocalOutlierFactor,train,64,3,64,0,,,
+pilot_D1|B_chemistry,6 feats,LocalOutlierFactor,holdout,94,76,94,20,0.995,0.263,1.0
+pilot_D1|B_chemistry,6 feats,OneClassSVM,train,64,10,64,0,,,
+pilot_D1|B_chemistry,6 feats,OneClassSVM,holdout,94,88,94,20,0.892,0.227,1.0
+pilot_D2|A_logged,"ph,temp_c,biogas_m3d,ccr",IsolationForest,train,156,8,156,1,1.0,0.125,1.0
+pilot_D2|A_logged,"ph,temp_c,biogas_m3d,ccr",IsolationForest,holdout,126,53,126,18,0.932,0.34,1.0
+pilot_D2|A_logged,"ph,temp_c,biogas_m3d,ccr",LocalOutlierFactor,train,156,8,156,1,0.994,0.125,1.0
+pilot_D2|A_logged,"ph,temp_c,biogas_m3d,ccr",LocalOutlierFactor,holdout,126,46,126,18,0.937,0.391,1.0
+pilot_D2|A_logged,"ph,temp_c,biogas_m3d,ccr",OneClassSVM,train,156,11,156,1,0.955,0.091,1.0
+pilot_D2|A_logged,"ph,temp_c,biogas_m3d,ccr",OneClassSVM,holdout,126,88,126,18,0.843,0.205,1.0
+pilot_D2|B_chemistry,6 feats,IsolationForest,train,68,4,68,1,0.925,0.0,0.0
+pilot_D2|B_chemistry,6 feats,IsolationForest,holdout,93,24,93,18,1.0,0.75,1.0
+pilot_D2|B_chemistry,6 feats,LocalOutlierFactor,train,68,2,68,1,1.0,0.5,1.0
+pilot_D2|B_chemistry,6 feats,LocalOutlierFactor,holdout,93,23,93,18,1.0,0.783,1.0
+pilot_D2|B_chemistry,6 feats,OneClassSVM,train,68,8,68,1,0.866,0.0,0.0
+pilot_D2|B_chemistry,6 feats,OneClassSVM,holdout,93,82,93,18,0.987,0.22,1.0
+full_scale|A_logged,"temp_c,biogas_m3d,ccr,ccr_slurry",IsolationForest,train,196,10,135,0,,,
+full_scale|A_logged,"temp_c,biogas_m3d,ccr,ccr_slurry",IsolationForest,holdout,122,2,79,0,,,
+full_scale|A_logged,"temp_c,biogas_m3d,ccr,ccr_slurry",LocalOutlierFactor,train,196,10,135,0,,,
+full_scale|A_logged,"temp_c,biogas_m3d,ccr,ccr_slurry",LocalOutlierFactor,holdout,122,10,79,0,,,
+full_scale|A_logged,"temp_c,biogas_m3d,ccr,ccr_slurry",OneClassSVM,train,196,12,135,0,,,
+full_scale|A_logged,"temp_c,biogas_m3d,ccr,ccr_slurry",OneClassSVM,holdout,122,35,79,0,,,
+full_scale|B_chemistry,5 feats,IsolationForest,train,80,4,80,0,,,
+full_scale|B_chemistry,5 feats,IsolationForest,holdout,48,0,48,0,,,
+full_scale|B_chemistry,5 feats,LocalOutlierFactor,train,80,4,80,0,,,
+full_scale|B_chemistry,5 feats,LocalOutlierFactor,holdout,48,2,48,0,,,
+full_scale|B_chemistry,5 feats,OneClassSVM,train,80,11,80,0,,,
+full_scale|B_chemistry,5 feats,OneClassSVM,holdout,48,18,48,0,,,
