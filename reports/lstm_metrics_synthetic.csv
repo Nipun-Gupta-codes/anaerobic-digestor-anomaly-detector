@@ -1,0 +1,10 @@
+model,n,MAE,RMSE,R2,system,seq_len,horizon,target,target_label,model_backend
+Persistence (h=1),83,51.58834641077455,71.4937445326211,-1.0391351605663801,AM2_synthetic,7,1,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+HistGB-fallback (h=1),83,42.53637064386904,49.21526261941548,0.03370543071125087,AM2_synthetic,7,1,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+Train-mean,83,47.3037403309946,50.165856786769865,-0.003983078097243187,AM2_synthetic,7,1,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+Persistence (h=3),83,41.34616497940463,64.88517170133068,-0.6795805679084461,AM2_synthetic,7,3,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+HistGB-fallback (h=3),83,45.378423777458856,48.615178045403844,0.0571259433826341,AM2_synthetic,7,3,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+Train-mean,83,47.3037403309946,50.165856786769865,-0.003983078097243187,AM2_synthetic,7,3,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+Persistence (h=7),83,48.42723150841462,69.59016614798942,-0.9319935479100947,AM2_synthetic,7,7,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+HistGB-fallback (h=7),83,50.140930808354284,51.9546030177644,-0.07685687840407773,AM2_synthetic,7,7,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)
+Train-mean,83,47.3037403309946,50.165856786769865,-0.003983078097243187,AM2_synthetic,7,7,sim_fos_tac_proxy,Simulated FOS/TAC proxy (NOT real measurement),GradientBoosting (fallback)

@@ -1,0 +1,310 @@
+datetime,ph,vfa_mgl,alk_mgl,va_alk,biogas_m3d,transfer_pred_label,transfer_pred_name,CAUTION
+2019-10-17,7.7,97.0,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-18,7.6,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-19,7.5,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-20,7.4,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-21,7.4,63.0,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-26,7.4,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-27,7.4,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-28,7.5,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-29,7.6,97.0,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-30,7.5,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-10-31,7.6,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-01,7.5,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-02,7.5,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-03,7.5,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-04,7.5,82.0,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-05,7.5,120.0,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-06,7.6,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-07,7.5,150.0,,,0.8608321363968,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-08,7.6,49.0,,,0.21294268637184,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-09,7.6,,,,1.79415540006912,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-10,7.6,,,,1.63982858614272,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-11,7.6,,,,1.7511137932492802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-12,7.6,100.0,,,1.46907800119296,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-13,7.6,,,,1.5571433940940802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-14,7.6,100.0,,,1.7109038710886402,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-15,7.6,76.0,,,1.55855923642368,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-16,7.6,,,,1.64549195546112,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-17,7.6,,,,1.7533791409766402,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-18,7.7,69.0,,,1.7482821085900802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-19,7.6,80.0,,,1.8493732509235201,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-20,7.7,,,,0.9825945767424001,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-21,7.6,78.0,,,1.24395907078656,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-22,7.7,94.0,,,1.3144680188006401,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-23,7.7,,,,1.43396511141888,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-24,7.7,,,,1.4781393921024002,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-25,7.7,55.0,,,1.47757305517056,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-26,7.7,69.0,,,1.62000679352832,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-27,7.7,,,,1.8873178253568001,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-28,7.7,,,,2.01955749894144,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-29,7.7,,,,2.2172090881536,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-11-30,7.7,,,,2.13848825462784,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-01,7.7,,,,2.31971607281664,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-02,7.7,60.0,,,2.10280902792192,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-03,7.7,76.0,,,2.187476399232,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-04,7.7,,,,2.1769991659929597,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-05,7.7,61.0,,,1.9929396631449598,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-06,7.6,,,,1.97425054439424,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-07,7.6,,,,1.9841614407014398,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-08,7.6,,,,1.9691535120076802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-09,7.7,74.0,,,1.84286037620736,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-10,7.7,,,,2.0642981165568,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-11,7.7,,,,1.85390394637824,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-12,7.6,38.0,,,1.8833534668339202,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-13,7.6,,,,1.9541455833139203,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-14,7.6,,,,2.0611832634316802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-15,7.6,,,,1.8669296958105603,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-16,7.7,75.0,,,1.7454504239308801,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-17,7.7,100.0,,,1.96179113189376,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-18,7.6,,,,1.8434267131392,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-19,7.6,80.0,,,1.7981197585920001,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-20,7.7,110.0,,,1.64464245006336,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-21,7.7,,,,1.53930378074112,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-22,7.7,,,,1.5829117244928,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-23,7.7,,,,1.6378464068812801,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-24,7.7,93.0,,,1.85163859865088,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-25,7.7,,,,2.21352789809664,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-26,7.7,,,,2.0640149480908803,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-27,7.7,,,,2.30753982878208,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-28,7.7,,,,2.32877746372608,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-29,7.7,,,,2.09063278388736,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-30,7.7,,,,,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2019-12-31,7.7,,,,2.0875179307622402,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-06,7.72604166666666,,,,1.9708525228032,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-07,7.70208333333333,,,,2.21551007735808,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-08,7.68854166666666,34.0,5356.0,0.006348020911127707,2.24326058701824,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-09,7.67291666666666,38.0,5250.0,0.007238095238095238,1.9909574838835202,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-10,7.69124999999999,,,,2.12432983133184,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-11,7.671875,,,,2.2967794270771202,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-12,7.71875,,,,2.17445064979968,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-13,7.60833333333334,36.0,5250.0,0.006857142857142857,1.96405647962112,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-14,,38.0,5434.0,0.006993006993006993,,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-15,7.34895833333334,57.0,5228.0,0.01090283091048202,2.1679377750835203,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-16,7.36458333333334,48.0,5204.0,0.009223674096848577,2.17869817678848,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-17,7.34895833333333,35.0,5270.0,0.006641366223908918,2.13962092849152,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-18,7.22395833333333,,,,2.350298267136,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-19,7.2375,,,,2.32877746372608,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-20,7.24270833333334,,,,2.39107452622848,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-21,7.26770833333334,40.0,5252.0,0.007616146230007616,2.5306765799270403,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-22,7.27500000000001,44.0,5278.0,0.008336491095111784,2.39532205321728,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-23,7.27916666666667,52.0,5260.0,0.00988593155893536,2.41316166657024,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-24,7.26041666666667,35.0,5240.0,0.006679389312977099,2.1506644986624,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-25,7.2375,,,,2.2639318850304,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-27,7.278125,53.0,5168.0,0.010255417956656347,1.9878426307584,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-28,7.26145833333334,35.0,5160.0,0.006782945736434108,2.00964660263424,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-29,7.28125000000001,51.0,5150.0,0.009902912621359223,2.03116740604416,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-30,7.25625,48.0,5068.0,0.009471191791633781,2.1342407276390403,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-01-31,7.26770833333334,35.0,5168.0,0.006772445820433437,2.060050589568,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-01,7.27708333333334,,,,2.48565279384576,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-02,7.29583333333334,,,,2.6872687415808003,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-03,7.35625000000001,43.0,4988.0,0.008620689655172414,2.5536132256665605,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-04,7.34791666666667,47.0,5060.0,0.009288537549407115,2.41939137282048,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-05,7.35416666666667,41.0,5078.0,0.008074044899566759,2.4635656535040003,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-06,7.35833333333333,50.0,5080.0,0.00984251968503937,2.23476553304064,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-07,7.32708333333334,35.0,5308.0,0.0065938206480783725,2.19229026315264,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-08,7.315625,,,,2.39588839014912,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-09,7.290625,,,,2.02805255291904,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-10,7.32083333333333,42.0,5132.0,0.00818394388152767,2.1223476520704003,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-11,7.278125,35.0,5168.0,0.006772445820433437,2.60968058191872,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-12,7.325,39.0,5156.0,0.0075640031031807605,2.527278558336,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-13,7.35833333333333,46.0,5064.0,0.009083728278041074,2.2333496907110404,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-14,7.29895833333333,42.0,5268.0,0.007972665148063782,2.0861020884326402,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-15,7.31145833333333,,,,2.13962092849152,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-16,7.30833333333334,,,,2.30300913332736,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-17,7.27708333333333,,,,2.39050818929664,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-18,7.26875,33.0,5148.0,0.00641025641025641,2.0201238358732803,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-19,7.17916666666667,49.0,5060.0,0.009683794466403162,2.03569810149888,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-20,7.24375,44.0,5100.0,0.008627450980392156,2.14698330860544,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-21,7.24583333333334,45.0,5180.0,0.008687258687258687,2.4431775239577602,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-22,7.29166666666667,,,,2.40183492793344,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-23,7.30833333333334,,,,2.37181907054592,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-24,7.32708333333333,44.0,4988.0,0.008821170809943865,2.4491240617420797,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-25,7.303125,39.0,5000.0,0.0078,2.0841199091712,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-26,7.27708333333333,47.0,4920.0,0.009552845528455284,2.43779732310528,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-27,7.25624999999999,39.0,4948.0,0.00788197251414713,2.14528429780992,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-28,7.25833333333333,36.0,5006.0,0.007191370355573312,1.8119950134220801,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-02-29,7.28125,,,,2.329060632192,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-01,7.25729166666666,,,,2.73795589698048,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-02,7.16979166666666,44.0,4850.0,0.009072164948453608,1.40055123244032,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-03,7.16875,40.0,4648.0,0.008605851979345954,1.7032583225088,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-04,7.26770833333333,44.0,4742.0,0.009278785322648671,2.25147247252992,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-05,7.25624999999999,59.0,4652.0,0.012682717110920035,2.15887638417408,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-06,7.25063291139241,66.0,4732.0,0.013947590870667794,1.9414030023475202,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-07,7.27291666666667,,,,1.550347350912,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-08,7.24456521739131,,,,1.4988106901145601,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-09,7.24583333333334,49.0,4696.0,0.010434412265758091,1.6933474262016,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-10,7.02916666666667,40.0,4770.0,0.008385744234800839,1.9314921060403198,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-11,7.25104166666667,31.0,4662.0,0.006649506649506649,2.06769613814784,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-12,7.34615384615385,28.0,4542.0,0.006164685160722149,2.05693573644288,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-13,7.30104166666668,37.0,4650.0,0.007956989247311828,2.07817337138688,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-14,7.290625,,,,2.36332401656832,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-15,7.31458333333334,,,,2.29054972082688,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-16,7.31458333333334,52.0,4590.0,0.011328976034858388,2.15604469951488,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-17,7.27083333333333,42.0,4642.0,0.00904782421370099,2.01446046655488,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-18,7.26770833333333,,4580.0,,2.24014573389312,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-19,7.20520833333333,42.0,4584.0,0.009162303664921465,2.07902287678464,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-20,7.23437500000001,36.0,4560.0,0.007894736842105263,2.0829872353075203,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-21,7.25208333333334,,,,1.86579702194688,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-22,7.26770833333334,,,,1.54581665545728,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-23,7.27395833333334,58.0,4530.0,0.012803532008830023,1.4852186037504,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-24,7.303125,40.0,4534.0,0.00882223202470225,1.4130106449408,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-25,7.30625,,,,1.37138488045056,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-26,7.33020833333333,48.0,4580.0,0.010480349344978166,1.68513554068992,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-27,7.11250000000001,,,,1.77008608046592,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-28,7.26562500000001,,,,1.74120289694208,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-29,7.284375,,,,1.53024238983168,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-30,7.29166666666666,,,,1.7768821236480001,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-03-31,7.30416666666666,31.0,4408.0,0.007032667876588022,1.5647889426739199,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-01,7.32395833333333,,,,1.260099673344,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-02,7.271875,41.0,4472.0,0.009168157423971377,1.43226610062336,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-03,7.23958333333333,,,,1.564505774208,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-04,7.22708333333333,,,,1.46766215886336,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-05,7.19479166666666,,,,1.51523446113792,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-06,7.18854166666666,,,,1.4243373835775999,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-07,7.17812500000001,47.0,4356.0,0.01078971533516988,1.60669787563008,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-08,7.2125,28.0,4454.0,0.006286484059272564,1.36288982647296,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-09,7.23333333333334,44.0,4256.0,0.010338345864661654,1.11625009265664,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-10,7.25833333333334,,,,1.36657101652992,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-11,7.2875,,,,1.2719927489126401,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-12,7.28229166666667,,,,1.10775503867904,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-13,7.27604166666666,33.0,4202.0,0.007853403141361256,1.29861058470912,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-14,7.22499999999999,62.0,4200.0,0.014761904761904763,1.44727402931712,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-15,7.23749999999999,60.0,4190.0,0.014319809069212411,1.153911498624,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-16,7.22499999999999,28.0,4228.0,0.006622516556291391,1.2099788548761599,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-17,7.23020833333333,42.0,4116.0,0.01020408163265306,1.14371743385088,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-18,7.21354166666667,,,,1.083119382144,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-19,7.18125,,,,1.2264026258995202,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-20,7.1875,,4006.0,,1.26264818953728,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-21,7.19166666666667,41.0,4016.0,0.010209163346613545,1.24395907078656,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-22,7.21354166666668,,3960.0,,1.0474401554380801,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-23,7.20833333333335,35.0,3936.0,0.008892276422764227,1.19242240998912,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-24,7.20625000000001,29.0,3864.0,0.007505175983436853,1.39488786312192,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-25,7.20104166666668,,,,1.25103828243456,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-26,7.22604166666667,,,,1.1182322719180802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-27,7.20208333333333,59.0,3864.0,0.015269151138716356,1.46907800119296,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-28,7.171875,46.0,3774.0,0.012188659247482777,1.34391753925632,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-29,7.18645833333333,42.0,3740.0,0.011229946524064172,1.316733366528,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-04-30,7.14375,30.0,3890.0,0.007712082262210797,1.32890961056256,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-01,7.12083333333334,38.0,3846.0,0.009880395215808632,1.38214528215552,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-02,7.09791666666667,,,,1.40055123244032,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-03,7.059375,,,,1.3889413253376,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-04,7.05729166666667,31.0,3714.0,0.00834679590737749,1.5237295151155201,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-05,7.09270833333333,51.0,3640.0,0.014010989010989012,1.6112285710848,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-06,6.99479166666665,35.0,3602.0,0.00971682398667407,1.7029751540428801,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-07,6.94791666666666,55.0,3536.0,0.015554298642533937,2.05750207337472,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-08,7.03645833333333,68.0,3582.0,0.018983807928531545,2.1350902330368,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-09,7.02500000000001,,,,2.40749829725184,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-10,7.03333333333334,,,,2.84131238704128,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-11,6.91354166666666,122.0,3566.0,0.034212002243409985,3.34959978336768,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-12,6.86875,286.0,3596.0,0.07953281423804227,3.7862455578163203,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-13,6.91041666666667,438.0,3582.0,0.12227805695142378,3.77265347145216,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-14,6.94583333333334,440.0,3644.0,0.1207464324917673,3.55772860581888,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-15,7.03125000000001,376.0,4326.0,0.08691631992602866,3.39037604246016,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-16,7.246875,,,,3.04915804102656,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-17,7.28854166666667,,,,2.56720531203072,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-18,7.30208333333334,1639.0,7004.0,0.23400913763563677,1.7754662813184001,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-19,7.22083333333333,1867.0,7474.0,0.2497993042547498,1.6239711520512001,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-20,7.19062500000001,2135.0,7088.0,0.3012133182844244,1.1850600298752,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-21,7.19687500000001,2300.0,6728.0,0.34185493460166466,0.9075549332735999,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-22,7.26562500000001,2236.0,6624.0,0.33756038647342995,0.58276070286336,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-23,7.29270833333334,,,,0.47345767501824,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-24,7.31979166666667,,,,0.4077625909248,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-25,7.26153846153846,,,,0.49441214149632,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-26,7.29479166666667,1841.0,6558.0,0.28072583104605064,0.37548138580992,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-27,7.33333333333333,1732.0,6532.0,0.26515615431720757,0.3058219431936,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-28,7.33541666666666,1534.0,6412.0,0.2392389270118528,0.37774673353728,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-29,7.3,1369.0,6484.0,0.21113510178901912,0.5748319858176001,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-30,7.22083333333333,,,,0.74444989690368,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-05-31,7.16979166666667,,,,0.80051725315584,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-01,7.19583333333333,1842.0,5500.0,0.33490909090909093,0.81807369804288,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-02,7.08765432098766,1911.0,5732.0,0.33339148639218424,0.9188816719104002,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-03,7.09062500000001,1937.0,5612.0,0.34515324305060585,0.8226043934976001,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-04,7.08437500000001,1662.0,5406.0,0.3074361820199778,0.8126934971904,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-05,7.12604166666666,1771.0,5160.0,0.3432170542635659,0.82486974122496,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-06,7.125,,,,0.84978856622592,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-07,7.08333333333334,,,,1.07009363271168,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-08,7.05441176470588,1594.0,5200.0,0.30653846153846154,1.2476402608435202,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-09,7.01250000000001,1475.0,5076.0,0.2905831363278172,1.16835309038592,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-10,7.19375,1379.0,5142.0,0.2681835861532478,1.0969946369740802,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-11,7.38645833333333,1073.0,5030.0,0.21332007952286283,1.02761836282368,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-12,7.40625,845.0,5080.0,0.16633858267716536,0.95031337162752,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-13,7.39479166666666,,,,1.03554707986944,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-14,7.36770833333332,,,,1.1001094900992001,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-15,7.32916666666666,353.0,4908.0,0.07192339038304808,1.1878917145344001,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-16,7.38437499999999,288.0,5082.0,0.05667060212514758,1.05083817702912,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-17,7.39062499999998,171.0,5062.0,0.03378111418411695,0.9350222744678401,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-18,7.29166666666667,155.0,4818.0,0.032171025321710255,0.8735747173632,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-19,7.40937499999999,93.0,4920.0,0.018902439024390243,0.7376538537216001,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-20,7.40833333333333,,,,0.75945782559744,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-21,7.42812499999998,,,,0.77220040656384,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-22,7.43645833333332,82.0,4834.0,0.01696317749275962,0.5535943508736,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-23,7.46145833333333,,,,0.6810201605376001,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-24,7.45520833333333,57.0,4782.0,0.01191969887076537,0.57992901820416,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-25,7.46770833333333,93.0,4684.0,0.019854824935952177,0.38425960825344,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-26,7.45104166666666,49.0,4578.0,0.010703363914373088,1.44047798613504,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-27,7.43020833333334,,,,1.8490900824576,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-28,7.44062499999999,57.0,4622.0,0.012332323669407183,1.8629653372876802,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-29,7.415625,44.0,4628.0,0.00950734658599827,2.09091595235328,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-06-30,7.403125,,,,1.85928414723072,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-01,7.35208333333333,49.0,4516.0,0.010850310008857396,1.94734954013184,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-02,7.27083333333333,33.0,4584.0,0.007198952879581152,1.8490900824576,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-03,7.228125,48.0,4424.0,0.0108499095840868,1.72534546285056,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-04,7.20937500000001,,,,1.47927206596608,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-05,7.25520833333334,65.0,4380.0,0.014840182648401826,1.21535905572864,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-06,7.27083333333334,32.0,4382.0,0.00730260155180283,0.73142414747136,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-07,7.32708333333333,,,,0.87980442361344,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-08,7.30104166666668,48.0,4156.0,0.011549566891241578,1.46936116965888,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-09,7.34999999999999,41.0,4230.0,0.009692671394799054,1.2003511270348801,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-10,7.16875,40.0,4238.0,0.009438414346389807,1.21224420260352,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-11,7.21770833333334,27.0,4200.0,0.0064285714285714285,0.4233368565504,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-12,7.29999999999999,28.0,4058.0,0.006899950714637753,1.16920259578368,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-13,7.20208333333334,80.0,4070.0,0.019656019656019656,1.4469908608512,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-14,7.171875,63.1,,,1.4467076923852802,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-15,7.07500000000001,45.0,3910.0,0.011508951406649617,1.53420674835456,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-16,7.04556962025316,314.0,3726.0,0.08427267847557703,1.65568602023424,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-17,7.07604166666667,418.0,3590.0,0.11643454038997214,1.46171562107904,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-18,7.1625,265.0,3708.0,0.0714670981661273,1.17599863896576,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-19,7.24687500000001,97.0,3526.0,0.027509926262053317,0.93955296992256,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-20,7.23645833333334,67.0,3498.0,0.019153802172670098,0.9466321815705601,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-21,7.13541666666667,,,,0.95654307787776,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-22,7.06770833333334,88.0,3512.0,0.025056947608200455,1.0109114233344,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-23,7.04479166666667,106.0,3554.0,0.029825548677546426,1.1440006023168,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-24,7.02083333333333,236.0,3398.0,0.06945261918775751,1.28785018300416,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-25,7.11354166666667,258.0,3344.0,0.07715311004784689,1.20658083328512,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-26,7.20208333333334,76.0,3362.0,0.022605591909577633,0.99901834776576,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-27,7.22812500000001,54.0,3298.0,0.01637355973317162,0.86423015798784,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-28,7.23750000000001,,,,0.89113116225024,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-29,7.2125,50.0,3356.0,0.014898688915375448,0.9712678381055999,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-30,7.17604166666668,76.0,3220.0,0.02360248447204969,1.00723023327744,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-07-31,7.10625000000001,,,,1.00723023327744,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-02,7.18645833333334,41.0,3206.0,0.012788521522145976,0.77333308042752,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-03,7.18229166666667,46.0,3162.0,0.01454775458570525,0.9140678079897601,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-04,7.11875,,,,1.20714717021696,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-05,7.05833333333333,174.0,3020.0,0.0576158940397351,1.41074529721344,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-06,6.65104166666667,221.0,2852.0,0.07748948106591866,1.6044325279027198,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-07,7.72916666666667,223.0,3066.0,0.07273320287018917,1.70835535489536,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-08,7.91562499999999,135.0,3114.0,0.04335260115606936,1.6395454176768,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-09,7.55520833333334,45.0,3354.0,0.013416815742397137,1.38979083073536,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-10,7.609375,33.0,3208.0,0.010286783042394014,1.2567016517529601,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-11,7.49479166666667,,,,1.3153175241984,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-12,7.09791666666666,48.0,3190.0,0.015047021943573668,1.45661858869248,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-13,6.90714285714286,61.0,3154.0,0.019340519974635383,1.5206146619904002,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-14,6.88541666666667,47.0,3192.0,0.014724310776942355,1.46936116965888,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-15,6.86250000000001,50.0,3182.0,0.01571338780641106,1.3223967358464002,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-16,7.01041666666665,30.0,3338.0,0.008987417615338526,1.15900853101056,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-17,7.32291666666666,41.0,3110.0,0.013183279742765274,1.4835195929548801,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-18,7.57916666666667,,,,1.45945027335168,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-19,7.559375,63.0,3124.0,0.020166453265044813,1.54213546540032,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-20,7.41770833333333,,,,1.4461413554534401,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-21,7.25416666666668,119.0,3220.0,0.03695652173913044,1.46907800119296,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-22,7.11041666666668,60.0,3160.0,0.0189873417721519,1.23857886993408,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-23,7.09791666666667,49.0,3244.0,0.015104808877928484,1.38441062988288,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-24,7.328125,27.0,3158.0,0.008549715009499683,1.5387374438092802,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-25,6.946875,,,,1.4096126233497601,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-26,6.93541666666667,55.0,3138.0,0.01752708731676227,1.66757909580288,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-27,6.96666666666667,57.0,3048.0,0.018700787401574805,1.62935135290368,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-28,6.95208333333333,130.0,3194.0,0.040701314965560426,2.4545042625945603,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-29,7.01875,84.0,3410.0,0.02463343108504399,2.26732990662144,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-30,7.10729166666666,,,,2.2908328892928003,2,Early Acidification,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
+2020-08-31,7.109375,57.0,3412.0,0.016705744431418524,2.40211809639936,0,Normal,Synthetic-model prediction. No ground truth. Feature alignment is approximate. Do not interpret as confirmed plant state.
